@@ -1,0 +1,12 @@
+{
+    "name": "gitpod/parsseo",
+    "authors": [
+        {
+            "name": "Gildars",
+            "email": "thegilldars@gmail.com"
+        }
+    ],
+    "require": {
+        "imangazaliev/didom": "^1.16"
+    }
+}
